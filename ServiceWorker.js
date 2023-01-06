@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-tinyWEB-0.1";
 const contentToCache = [
     "Build/Unity2023WebGL.loader.js",
-    "Build/Unity2023WebGL.framework.js.gz",
-    "Build/Unity2023WebGL.data.gz",
-    "Build/Unity2023WebGL.wasm.gz",
+    "Build/Unity2023WebGL.framework.js",
+    "Build/Unity2023WebGL.data",
+    "Build/Unity2023WebGL.wasm",
     "TemplateData/style.css"
 
 ];
